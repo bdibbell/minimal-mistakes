@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "This is my website."
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Brendan Dibbell"
+description              : "This is a website. There are many like it, but this one is mine"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,24 +77,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Brendan Dibbell"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Programmer, security enthuiast, volunteer computing nerd."
+  location         : "Washington, D.C."
+  email            : "me@brendandibbell.com"
+  uri              : "https://brendandibbell.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "bdibbell"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "brendan-dibbell-b5458325"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
