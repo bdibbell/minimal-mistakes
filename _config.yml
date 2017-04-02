@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Brendan Dibbell"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Programmer, security enthuiast, volunteer computing nerd."
+  bio              : "Backend developer, security enthusiast, volunteer computing nerd."
   location         : "Washington, D.C."
   email            : "me@brendandibbell.com"
   uri              : "https://brendandibbell.com"
