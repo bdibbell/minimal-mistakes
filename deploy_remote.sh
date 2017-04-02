@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh obk.moe cd site;./deploy_local.sh
+ssh obk.moe "cd site;./deploy_local.sh"
